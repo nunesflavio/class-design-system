@@ -1,5 +1,16 @@
-# design system
+# Design System
 
-Primeiro projeto prático.
+Projeto prático com Design System.
 
-Documentação dos padrões que seguimos entre os layouts das aplicações.
+- Documentação dos padrões que seguimos entre os layouts das aplicações.
+
+# Components
+
+- [ ] Button
+- [ ] Heading
+- [ ] Text
+- [ ] TextInput
+- [ ] Textarea
+- [ ] Checkbox
+- [ ] Avatar
+- [ ] MultiStep
