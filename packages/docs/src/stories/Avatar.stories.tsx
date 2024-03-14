@@ -8,7 +8,14 @@ export default {
     args: {
         src: 'https://github.com/diego3g.png',
         alt: 'nunes flavio'
-    }
+    },
+    argTypes: {
+        src: {
+            control: {
+                type: 'text',
+            },
+        },
+    },
 
 } as Meta<AvatarProps>
 
